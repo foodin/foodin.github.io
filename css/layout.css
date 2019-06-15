@@ -864,6 +864,9 @@ call-to-action .button {
 	color: #fff;
 	background-color: #11ABB0;
 }
+#contact button {
+    margin:auto;
+}
 #contact button.submit {
 	text-transform: uppercase;
 	letter-spacing: 3px;
