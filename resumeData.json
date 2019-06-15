@@ -14,23 +14,18 @@
       "state":"New Delhi",
       "zip": "110034"
     },
-    "website": "http://www.timbakerdev.com",
+    "website": "",
     "resumedownload":"infographicFoodin.pdf",
     "social":[
       {
         "name":"facebook",
-        "url":"http://facebook.com/tim.baker.906",
+        "url":"",
         "className":"fa fa-facebook"
       },
       {
         "name":"twitter",
-        "url":"http://twitter.com",
+        "url":"https://twitter.com/Foodin_dexterUs",
         "className":"fa fa-twitter"
-      },
-      {
-        "name":"google-plus",
-        "url":"http://googleplus.com/tbakerx",
-        "className":"fa fa-google-plus"
       },
       {
         "name":"linkedin",
@@ -39,7 +34,7 @@
       },
       {
         "name":"instagram",
-        "url":"http://instagram.com/tbaker_x",
+        "url":"https://www.instagram.com/foodin.dexterus/",
         "className":"fa fa-instagram"
       }
     ]
