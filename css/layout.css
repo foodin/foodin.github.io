@@ -216,7 +216,20 @@ ul#nav li.current a { color: #F06000; }
    width: 58.33333%;
    padding-top: 6px;
 }
+
 #about .main-col { padding-right: 5%; }
+#about .address .button {
+    margin-top: 6px;
+    background: #444;
+}
+#about .address .button:hover {
+    background: #fff;
+    color: #2B2B2B;
+}
+#about .address .button i {
+    margin-right: 15px;
+    font-size: 20px;
+}
 #about .download .button {
    margin-top: 6px;
    background: #444;
