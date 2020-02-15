@@ -1,5 +1,3 @@
-The website can be accessed at: https://foodin.github.io/homepage/
-
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
